@@ -1,6 +1,6 @@
 # Lepas-Marine-Forensic-Tool
 
-This repository contains code for Mesaglio et al. (in preparation). 
+This repository contains code for Mesaglio et al. (in review). 
 
 The code covers ordination analysis, AIC model selection (including AICc), and linear regressions.
 
